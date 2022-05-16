@@ -1,6 +1,6 @@
 # Chloe's Monopoly 
 
-Chloe's Monopoly is a simplified version of the classic Monopoly boardgame. The program utilizes an abstract class, an interface, and 11 object classes. Additionally there are two other methods in the main class. createBoard uses a 2d array to map out all squares and visually shows where each player's pieces are at. checkWinner checks for bankrupty every turn and allows users to mortgage property (for 50% original value) to earn money. 
+Chloe's Monopoly is a simplified version of the classic Monopoly boardgame. The program utilizes an abstract class, an interface, and 11 object classes. Additionally there are two other methods in the main class. createBoard uses a 2d array to map out all squares and visually shows where each player's pieces are at. checkWinner checks for bankruptcy every turn and allows users to mortgage property (for 50% original value) to earn money. 
 
 Note: Player 1 has the * piece and Player 2 has the ~ piece. 
 
