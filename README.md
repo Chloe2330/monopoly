@@ -54,7 +54,7 @@ If a player lands on the JAIL square, not the GO TO JAIL square, all is well.
 If a player lands on a Chance square, they enter any number to draw a card. The Chance cards either win them money or lose them money. 
 
 10. BANKRUPTCY (how to win)
-A player will not be allowed to buy anything that they cannot afford (negative money). If they do not have enough money to pay a fine, land on a Luxury Tax square, or pay rent to another player, they must mortgage to stay in the game. Only properties are allowed to be mortgaged. Once a property is mortgaged, it becomes unowned and another player can buy it. Houses and hotels on the property will be returned to the bank. The player then earns 50% of the original value. If a player mortgages all their properties and still has negative money, they will be forced to file for bankrupty. Thus, the other player will win the game and the program will end. 
+A player will not be allowed to buy anything that they cannot afford (negative money). If they do not have enough money to pay a fine, land on a Luxury Tax square, or pay rent to another player, they must mortgage to stay in the game. Only properties are allowed to be mortgaged. Once a property is mortgaged, it becomes unowned and another player can buy it. Houses and hotels on the property will be returned to the bank. The player then earns 50% of the original value. If a player mortgages all their properties and still has negative money, they will be forced to file for bankruptcy. Thus, the other player will win the game and the program will end. 
 
 Abbreviations on the board: 
 Properties: RP1 = Red Property 1 (GP is green, YP is yellow, BP is blue) 
